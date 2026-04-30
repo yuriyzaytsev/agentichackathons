@@ -1,0 +1,35 @@
+title: Agent Hackathon Guide
+description: A practical guide for planning and running M365 Copilot Agent Hackathons
+baseurl: "/agentichackathons"
+url: "https://yuriyzaytsev.github.io"
+
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+nav:
+  - title: Home
+    url: /
+  - title: Overview
+    url: /01-overview
+  - title: Planning
+    url: /02-planning
+  - title: People & Roles
+    url: /03-people-and-roles
+  - title: Use Cases
+    url: /04-use-cases-and-scenarios
+  - title: Execution
+    url: /05-event-execution
+  - title: Follow-Up
+    url: /06-follow-up
+  - title: Resources
+    url: /07-resources-and-tools
