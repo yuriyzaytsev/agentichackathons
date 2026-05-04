@@ -92,6 +92,7 @@ Key differences from single-day hackathon:
 > - **GTM success** = lead created + seller looped in
 > - **Strategic success** = repeatable scenario enters partner offering
 
+
 ---
 
 ## Related

@@ -56,6 +56,10 @@ One entry per team/agent:
 
 ## Lead Qualification & Conversion
 
+### Use Case Library (Partner-Published)
+
+> ⚠️ **Field Insight:** Recommend partners publish hackathon-created use cases (not finished products, but scenarios and ideas) on their own website. Over multiple events this builds a publicly visible library that generates inbound leads without extra effort. It positions the partner as a thought leader and gives customers something tangible to react to. Partners don't need to be asked to "do something for Microsoft" — this directly benefits their own pipeline. (May 2026, adesso hackathon debrief)
+
 ### Immediate Follow-Up (+1 Week)
 
 **Summarize and evaluate:**

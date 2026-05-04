@@ -46,6 +46,10 @@ Request PSA support via [PMX](https://aka.ms/pmx).
 
 **Minimum per table**: 1 functional expert + 1 technical expert coach
 
+**Scaling rule**: Maximum **10 attendees per instructor pair** (1 Microsoft + 1 partner). Beyond that, quality of support degrades. For 20 attendees, split into 2 rooms with a full pair in each. Plan staffing as: `ceil(attendees / 10)` instructor pairs needed.
+
+> ⚠️ **Field Insight:** With 10 customer participants per room and 2 instructors (1 Microsoft, 1 partner), the group was at maximum capacity. "We could not have been able to handle more people." Use this as a hard ceiling for planning. (May 2026, adesso hackathon debrief)
+
 ## Customer Participants
 
 | Role | Description | Main Objectives | During |

@@ -56,6 +56,9 @@ CDX enables partners to provision fully functional demo environments for Microso
 - Not explicitly designed for multi-team, multi-environment scale
 - No guarantee of one-tenant-per-team
 - No automatic environment reset after event
+- Only includes Copilot Studio license — **no M365 corporate license**, so agents cannot be published to Teams channels (testing only, not full showcase)
+
+> ⚠️ **Field Insight:** CDX environments lack the full M365 corporate license needed to publish agents to Teams. This makes it impossible to demonstrate the end-to-end "agent in a Teams channel" experience, which is an important showcase moment during hackathons. If agent publishing is part of the plan, use Spektra or a customer/partner environment instead. (May 2026, adesso hackathon debrief)
 
 > 🔍 **[Enrichment]** CDX works best for facilitated demos and PSA workshops, less so for large hands-on hackathons where each table needs an isolated environment. Consider Spektra for 20+ participant events.
 
@@ -78,6 +81,8 @@ CDX enables partners to provision fully functional demo environments for Microso
 > 🔍 **[Enrichment]** Trial license duration (60 vs 90 days) and exact request workflow are not formally standardized in hackathon guidance. The process is implied from field practice but varies by region and opportunity type.
 
 ### Partner Benefits (MAICPP)
+
+> ⚠️ **Field Insight:** Encourage partners to invest in their **own permanent demo environment** rather than relying solely on free/temporary options. When partners pay for an environment, they are incentivized to maximize its use — generating leads, running demos, pitching customers. Free environments tend to be treated as disposable. Shared investment also aligns Microsoft and partner objectives around monetization. (May 2026, adesso hackathon debrief)
 
 Partners in the Microsoft AI Cloud Partner Program can use their own benefits:
 

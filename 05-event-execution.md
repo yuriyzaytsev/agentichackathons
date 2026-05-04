@@ -63,6 +63,9 @@ Include in the morning presentations:
 | **Organization** | One table per industry/function |
 | **Materials** | Printed login instructions, scenario brief, evaluation template |
 | **Environment** | One dedicated Power Platform environment per table |
+| **Backup access** | Spare laptops or alternate login method for attendees with VPN/proxy restrictions |
+
+> ⚠️ **Field Insight:** Some customer attendees have locked-down laptops requiring VPN, which can block access to demo environments tied to specific IP ranges (e.g., partner office Wi-Fi). Prepare backup laptops or alternate access methods so no one is reduced to watching over someone's shoulder. (May 2026, adesso hackathon debrief)
 
 ### Flow at Each Table
 
@@ -153,6 +156,26 @@ During the event, capture:
 - **Photos and testimonials** → marketing and future event promotion
 - **Feedback forms** → event improvement
 - **Customer interest levels** → lead qualification
+- **Structured conversation log** → customer insights from hallway/coffee conversations
+
+### Conversation Capture Mechanism
+
+> ⚠️ **Field Insight:** Most valuable customer insights come from 1:1 conversations during breaks and at desks — not from group sessions. Without a capture mechanism, this intelligence is lost. Designate a person (or share responsibility) to record insights in a structured format during the event. Follow up within days, not weeks — partners who waited "several days" to ask for notes had already lost context. (May 2026, adesso hackathon debrief)
+
+**Recommended: shared tracking sheet** (Excel or shared doc), prepared before the event:
+
+| Column | Purpose |
+|--------|---------|
+| Customer name | Organization |
+| Attendee name(s) | Who was spoken to |
+| Role / seniority | Context for follow-up |
+| Industry | Segmentation |
+| Topics discussed | Use cases, pain points, interests |
+| Interest level (H/M/L) | Qualification |
+| Follow-up action | Next step agreed |
+| Notes by | Who captured this |
+
+Assign a **designated note-taker** who circulates during breaks, plus ask all Microsoft/partner staff to contribute observations after the event.
 
 > Compile the Book of Agents WHILE judges deliberate. Use team pitch decks as input. See [Follow-Up & Conversion](06-follow-up.md#book-of-agents) for Book of Agents details.
 

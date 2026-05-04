@@ -93,6 +93,9 @@ This is one of the **most critical steps**. See [Use Cases & Scenarios](04-use-c
 - [ ] Prepare scoring criteria and jury evaluation sheet
 - [ ] Ensure ROI/business value messaging is embedded in presentations
 - [ ] Include licensing information in presentations
+- [ ] Align partner and Microsoft on who presents what — use a shared deck
+
+> ⚠️ **Field Insight:** Create ONE shared presentation deck where both Microsoft and partner contribute slides. Without this, both sides independently prepare similar "what are agents" content, creating redundancy and wasting attendee time. Agree up front on topic ownership. (May 2026, adesso hackathon debrief)
 
 > ⚠️ **Field Insight:** Make sure there's an ROI message including licensing in the presentations. Don't just show the tech — show the business value.
 
